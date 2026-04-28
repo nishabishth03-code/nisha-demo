@@ -1,3 +1,4 @@
 # nisha-demo
-this is my first repository
-author: nisha bisht
+this is my first repository.
+<br>
+author: nisha bisht.
